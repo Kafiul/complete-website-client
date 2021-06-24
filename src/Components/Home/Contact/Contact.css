@@ -1,0 +1,21 @@
+.form-control{
+    background-color: #F1F3F6;
+    border: none !important;
+}
+.formm{
+    margin-left: 380px !important;
+    margin-top: 20px;
+    
+}
+
+
+@media only screen and (max-width:767px) {
+    .contact-form {
+        margin-top: 80px !important;
+    }
+    .formm {
+        margin-left: 0px !important;
+
+    }
+
+}

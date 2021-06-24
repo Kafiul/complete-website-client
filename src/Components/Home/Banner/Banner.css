@@ -1,0 +1,15 @@
+.banner{
+    background-color: #F6F6F6;
+    height:550px;
+}
+
+@media only screen and (min-width: 990px){
+    /* .img{
+        width: 500px !important;
+    } */
+}
+@media only screen and (max-width:768px){
+    .img{
+        margin-top: 20px;
+    }
+}
